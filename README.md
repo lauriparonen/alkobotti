@@ -1,8 +1,9 @@
 ### alkobotti
-- eacg week fetches the entire catalogue of Alko, the Finnish booze monopoly
-- stores the prices of select items
-- retrieves said prices on command in Telegram convos
+- Each week fetches the entire catalogue of Alko, the Finnish booze monopoly
+- Stores the prices of select items
+- Retrieves said prices on command in Telegram convos
 
-todos:
-- build cron job to automate data fetching
-- migrate to raspberry 
+Todos:
+- Build cron job to automate data fetching
+- Move bot to Raspberry
+- Gather data about the price movements of Gambina
