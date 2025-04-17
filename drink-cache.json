@@ -1,0 +1,22 @@
+{
+  "gambina": {
+    "price": 13.05,
+    "vol": "0.7 l"
+  },
+  "mossu": {
+    "price": 10.98,
+    "vol": "0.5 l"
+  },
+  "hehkuviini": {
+    "price": 14.58,
+    "vol": "0.75 l"
+  },
+  "valdemar": {
+    "price": 9.19,
+    "vol": "0.75 l"
+  },
+  "doris": {
+    "price": 9.19,
+    "vol": "0.75 l"
+  }
+}
